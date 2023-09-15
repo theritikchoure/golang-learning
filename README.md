@@ -107,10 +107,12 @@
 - Must have a **name** and a **type**
 - All variables must have **declarations**
 - Most basic variable declaration 
+```
                 var       x       int
                 /         |         \
                /          |          \
            keyword      name        type
+```
 
 - Can declare many on the same line
     var x, y int
